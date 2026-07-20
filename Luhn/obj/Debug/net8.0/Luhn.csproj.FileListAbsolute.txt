@@ -1,0 +1,14 @@
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\bin\Debug\net8.0\Luhn.exe
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\bin\Debug\net8.0\Luhn.deps.json
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\bin\Debug\net8.0\Luhn.runtimeconfig.json
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\bin\Debug\net8.0\Luhn.dll
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\bin\Debug\net8.0\Luhn.pdb
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\Luhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\Luhn.AssemblyInfoInputs.cache
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\Luhn.AssemblyInfo.cs
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\Luhn.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\Luhn.dll
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\refint\Luhn.dll
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\Luhn.pdb
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\Luhn.genruntimeconfig.cache
+C:\Users\ronaldo herrera maci\DiplomadoDotNet\Luhn\obj\Debug\net8.0\ref\Luhn.dll
